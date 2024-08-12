@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Lareina&#39;s World</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Lareina&#39;s World</description>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art Gallery</title>
+      <link>http://localhost:1313/projects/obsidian-publish-github-action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/obsidian-publish-github-action/</guid>
+      <description>Personal dance showcase at Bianzhong Music Hall, Wuhan “Art Gallery”</description>
+    </item>
+    <item>
+      <title>Art in Every Corner</title>
+      <link>http://localhost:1313/projects/kindle-to-notion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/kindle-to-notion/</guid>
+      <description>Environment Dance “Art in Every Corner”</description>
+    </item>
+    <item>
+      <title>The Voice of The Body</title>
+      <link>http://localhost:1313/projects/automated-image-captioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/automated-image-captioning/</guid>
+      <description> Invited by the Wuzhen Theater Festival “The Voice of The Body”</description>
+    </item>
+    <item>
+      <title>The Resonant Body</title>
+      <link>http://localhost:1313/projects/todo-list-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/todo-list-app/</guid>
+      <description>Personal dance showcase at Wuhan Art Festival “The Resonant Body”</description>
+    </item>
+    <item>
+      <title>Mantis, Cicada, Oriole</title>
+      <link>http://localhost:1313/projects/face-landmarks-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/face-landmarks-detection/</guid>
+      <description> Outstanding Works of Huanghe Aesthetic Education “Mantis, Cicada, Oriole”</description>
+    </item>
+    <item>
+      <title>Gaze-tracking Goggles</title>
+      <link>http://localhost:1313/projects/gaze-tracking-goggles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/gaze-tracking-goggles/</guid>
+      <description>Smart Goggles for Gaze Analysis</description>
+    </item>
+  </channel>
+</rss>

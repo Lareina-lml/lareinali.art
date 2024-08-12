@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Drama on Lareina&#39;s World</title>
+    <link>http://localhost:1313/tags/drama/</link>
+    <description>Recent content in Drama on Lareina&#39;s World</description>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/drama/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Resonant Body</title>
+      <link>http://localhost:1313/choreography/the-resonant-body/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/choreography/the-resonant-body/</guid>
+      <description>Personal dance showcase at Wuhan Art Festival “The Resonant Body”</description>
+    </item>
+  </channel>
+</rss>
